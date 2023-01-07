@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MintPlayer.StringFormat", "MintPlayer.StringFormat\MintPlayer.StringFormat.csproj", "{45C92F2F-A6C3-45DF-9EF3-9926AAD85786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintPlayer.StringFormat.Demo", "MintPlayer.StringFormat.Demo\MintPlayer.StringFormat.Demo.csproj", "{F657A3F2-7F5C-471F-BFEB-6E96232DD85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C92F2F-A6C3-45DF-9EF3-9926AAD85786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C92F2F-A6C3-45DF-9EF3-9926AAD85786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C92F2F-A6C3-45DF-9EF3-9926AAD85786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C92F2F-A6C3-45DF-9EF3-9926AAD85786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F657A3F2-7F5C-471F-BFEB-6E96232DD85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F657A3F2-7F5C-471F-BFEB-6E96232DD85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F657A3F2-7F5C-471F-BFEB-6E96232DD85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F657A3F2-7F5C-471F-BFEB-6E96232DD85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B019540-3932-4175-AF0B-B2F6DC0BE56B}
+	EndGlobalSection
+EndGlobal
